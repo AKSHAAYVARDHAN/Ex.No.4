@@ -1,6 +1,5 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 
-# Experiment No.: 4
 # Name: Akshaay Vardhan S
 # Register Number: 212224220007
 
@@ -845,8 +844,13 @@ The experiment produced the following observations:
 10. Rubric-based evaluation provides a systematic way to compare AI-generated responses.
 
 ---
+# 14. EVALUATION TABLE
 
-# 14. CONCLUSION
+<img width="1231" height="476" alt="image" src="https://github.com/user-attachments/assets/2d42d79f-9dcf-4ebd-a92b-e479b5ef308d" />
+
+---
+
+# 15. CONCLUSION
 
 The different prompt engineering patterns, namely **Zero-Shot Prompting, Few-Shot Prompting, Chain-of-Thought Prompting, Persona Pattern, Reverse Prompting, Graph Prompting, and Active Prompting**, were successfully designed and evaluated for the **IoT-Based Smart Manufacturing and Predictive Maintenance** use case.
 
